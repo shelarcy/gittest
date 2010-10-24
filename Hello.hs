@@ -1,1 +1,1 @@
-main = putStrLn "hello"
+main = print "hello"
